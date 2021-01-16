@@ -1,0 +1,6 @@
+{
+    "Happy Coding" : "Vamos!",
+    "About" : "Sobre",
+    "error-with-status": "Se produjo un error {{statusCode}} en el servidor",
+    "error-without-status": "Ocurrió un error en el servidor"
+}
